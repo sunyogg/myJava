@@ -1,0 +1,50 @@
+public class DogTestDrive{
+	public static void main(String[] args){
+		// the dog test code goes here.
+		Dog d1 = new Dog();
+		d1.bark();
+		d1.size = 20;
+		d1.describe_dog();
+		System.out.println("");
+		Dog d2 = new Dog();
+		d2.bark();
+		d2.size = 25;
+		d2.describe_dog();
+		
+	}
+}
+
+class Dog{
+	// instance variable.
+	int size;
+	String name;
+	String breed;
+	String color;
+	String type;
+
+	// a method
+	void bark(){
+	System.out.println("WWuff! WWuff!");
+	}
+
+	// another method
+	void describe_dog(){
+		System.out.println(size);
+	}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
