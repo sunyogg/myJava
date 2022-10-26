@@ -1,6 +1,10 @@
 # Mac specific
 .DS_Store
 
+# for directories
+books/
+bootcamp/Completed-Topics-Source-code/
+
 # Compiled class file
 *.class
 
