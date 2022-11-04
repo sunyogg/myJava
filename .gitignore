@@ -3,10 +3,14 @@
 
 # intellij
 bootcamp/my_practice/.idea/vcs.xml
+.idea/
+myJava.iml
+
 
 # for directories
 books/
 bootcamp/Completed-Topics-Source-code/
+Completed-Topics-Source-code/
 
 # Compiled class file
 *.class
