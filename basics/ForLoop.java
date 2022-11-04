@@ -1,4 +1,4 @@
-package java.basics;
+package myJava.basics;
 // 17
 
 // Use the for loop when you know how many times the loop is going to run.

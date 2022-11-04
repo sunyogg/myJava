@@ -1,4 +1,4 @@
-package java.oops;
+package myJava.oops;
 // when an object is stored in an array, it's actually the
 // reference variable (remote control of that object) that is 
 // stored inside that array. 
@@ -6,17 +6,17 @@ package java.oops;
 
 public class DoginArray{
 	public static void main(String[] args){
-		Dog d1 = new Dog();
+		Doggyy d1 = new Doggyy();
 		d1.name = "Tuffy";
 		d1.breed = "Labrador";
 		d1.color = "Golden";
 		d1.age = 6;
 		d1.weight = 30;
 		d1.size = 25;
-		
-		Dog[] dogarr = new Dog[2];
+
+		Doggyy[] dogarr = new Doggyy[2];
 		dogarr[0] = d1;
-		dogarr[1] = new Dog();
+		dogarr[1] = new Doggyy();
 
 		// we can say here reference variable is dogarr[0].
 		// since reference variable of d1 is stored at dogarr[0].
@@ -30,7 +30,7 @@ public class DoginArray{
 	}
 }
 
-class Dog{
+class Doggyy {
 	// instance variable.
 	String name;
 	String breed;

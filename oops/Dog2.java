@@ -1,15 +1,15 @@
-package java.oops;
+package myJava.oops;
 
 public class Dog2{
 	public static void main(String[] args){
-		Dog d1 = new Dog();
+		Doge d1 = new Doge();
 		d1.name = "tuffy";
 		d1.size = 23;
 		d1.bark(4);
 	}
 }
 
-class Dog{
+class Doge {
 	String name;
 	int size;
 

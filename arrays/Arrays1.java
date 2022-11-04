@@ -1,4 +1,4 @@
-package java.arrays;
+package myJava.arrays;
 
 // syntax
 // data_type[] variable_name = new data_type[size];

@@ -1,4 +1,4 @@
-package java.oops;
+package myJava.oops;
 // constructor in java
 
 public class JavaOops3{

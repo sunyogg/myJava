@@ -1,4 +1,4 @@
-package java.bootcamp.section4;
+package myJava.bootcamp.section4;
 
 public class MethodOverloading {
 

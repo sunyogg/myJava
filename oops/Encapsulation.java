@@ -1,4 +1,4 @@
-package java.oops;
+package myJava.oops;
 
 public class Encapsulation{
     public static void main(String[] args){
@@ -18,7 +18,7 @@ public class Encapsulation{
 
 class GoodDog{
     // make the instance variable private.
-    private int size;
+    public int size;
 
     // make the getter public.
     public int getSize(){

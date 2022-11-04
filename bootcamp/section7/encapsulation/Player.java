@@ -1,4 +1,4 @@
-package java.bootcamp.section7.encapsulation;
+package myJava.bootcamp.section7.encapsulation;
 
 public class Player {
 

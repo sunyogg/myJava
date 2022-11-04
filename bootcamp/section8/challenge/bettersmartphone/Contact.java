@@ -1,4 +1,4 @@
-package java.bootcamp.section8.challenge.bettersmartphone;
+package myJava.bootcamp.section8.challenge.bettersmartphone;
 
 public class Contact {
     private String name;

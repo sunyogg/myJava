@@ -1,4 +1,4 @@
-package java.bootcamp.section7.polymorphism;
+package myJava.bootcamp.section7.polymorphism;
 
 public class Main {
     public static void main(String[] args) {

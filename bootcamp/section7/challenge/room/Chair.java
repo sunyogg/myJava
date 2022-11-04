@@ -1,4 +1,4 @@
-package java.bootcamp.section7.challenge.room;
+package myJava.bootcamp.section7.challenge.room;
 
 public class Chair {
 

@@ -1,4 +1,4 @@
-package java.bootcamp.section6.work;
+package myJava.bootcamp.section6.work;
 
 public class Employee {
     // fields / attributes

@@ -1,4 +1,4 @@
-package java.basics;// 29
+package myJava.basics;// 29
 
 public class Scope{
     public static void main(String[] args){

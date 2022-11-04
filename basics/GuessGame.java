@@ -1,4 +1,4 @@
-package java.basics;
+package myJava.basics;
 
 class GuessGame {
     Player p1;

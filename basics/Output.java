@@ -1,3 +1,4 @@
+package myJava.basics;
 
 import java.util.Arrays;
 public class Output {

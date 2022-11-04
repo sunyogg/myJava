@@ -1,4 +1,4 @@
-package java.basics;
+package myJava.basics;
 // '==' is used to compare two variables, it actually compares the bits that those
 // variable holding.
 // equals() compares two method and check if they are equal or not.

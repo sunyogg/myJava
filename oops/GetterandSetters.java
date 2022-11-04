@@ -1,4 +1,4 @@
-package java.oops;
+package myJava.oops;
 
 public class GetterandSetters{
 	public static void main(String[] args){

@@ -1,4 +1,4 @@
-package java.oops;
+package myJava.oops;
 // static method v/s non-static method
 
 //  we created a 'static' method, which means that it can be accessed without 

@@ -1,4 +1,4 @@
-package java.basics;
+package myJava.basics;
 // 11
 
 // Since Strings are object in java there we can use different methods to modify Strings.

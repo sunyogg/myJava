@@ -1,4 +1,4 @@
-package java.basics;
+package myJava.basics;
 // 16
 
 // the difference between do while and while loop is that the do part will atleast

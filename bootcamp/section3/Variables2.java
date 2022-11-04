@@ -1,4 +1,4 @@
-package java.bootcamp.section3;
+package myJava.bootcamp.section3;
 
 public class Variables2{
     public static void main(String[] args){

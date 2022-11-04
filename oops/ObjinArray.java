@@ -1,17 +1,17 @@
-package java.oops;
+package myJava.oops;
 
 public class ObjinArray{
     public static void main(String[] args){
-		     GoodDog[] pets;
-		     pets = new GoodDog[7];
-		     GoodDog one = new GoodDog();
-		     GoodDog two = new GoodDog();
+		GoodDogs[] pets;
+		pets = new GoodDogs[7];
+		GoodDogs one = new GoodDogs();
+		GoodDogs two = new GoodDogs();
 		     
 		     // create two new Dog objects, and assign them to the 
 		     // first two array element.
 		     pets[0] = one;
 		     pets[1] = two;
-		     pets[2] = new GoodDog();
+		     pets[2] = new GoodDogs();
 
 		     pets[0].setSize(65);
 		     pets[1].setSize(40);
@@ -28,7 +28,7 @@ public class ObjinArray{
     }// ends main function
 }// ends Encapsulation class
 
-class GoodDog{
+class GoodDogs{
     // make the instance variable private.
     private int size;
 

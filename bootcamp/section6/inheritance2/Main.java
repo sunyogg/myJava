@@ -1,4 +1,4 @@
-package java.bootcamp.section6.inheritance2;
+package myJava.bootcamp.section6.inheritance2;
 
 public class Main {
     public static void main(String[] args) {

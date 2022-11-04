@@ -1,4 +1,4 @@
-package java.basics;
+package myJava.basics;
 // 18
 
 // Looping through Iterables in java.

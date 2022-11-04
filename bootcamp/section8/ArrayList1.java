@@ -1,4 +1,4 @@
-package java.bootcamp.section8;// ArrayList
+package myJava.bootcamp.section8;// ArrayList
 
 import java.util.ArrayList;
 

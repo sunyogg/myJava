@@ -1,4 +1,4 @@
-package java.bootcamp.section6.challenges;
+package myJava.bootcamp.section6.challenges;
 // Is this exercise including 33, 34 using "INSTANCES AS ARGUMENT"
 
 public class Point {

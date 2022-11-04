@@ -1,4 +1,4 @@
-package java.bootcamp.section8.challenge.betterbank;
+package myJava.bootcamp.section8.challenge.betterbank;
 
 import java.util.ArrayList;
 

@@ -1,4 +1,4 @@
-package java.bootcamp.section5.challenges;
+package myJava.bootcamp.section5.challenges;
 
 public class NumberInWord {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package java.bootcamp.section6.inheritance1;
+package myJava.bootcamp.section6.inheritance1;
 
 public class ElectricCar extends Cars {
 

@@ -1,6 +1,4 @@
-package java.bootcamp.section6.challenges;
-
-import java.awt.*;
+package myJava.bootcamp.section6.challenges;
 
 public class Cuboid extends Rectangle {
 

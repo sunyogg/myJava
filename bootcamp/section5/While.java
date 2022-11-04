@@ -1,4 +1,4 @@
-package java.bootcamp.section5;
+package myJava.bootcamp.section5;
 
 public class While {
     public static void main(String[] args) {

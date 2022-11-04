@@ -1,4 +1,4 @@
-package java.bootcamp.section7.bigchallenge;
+package myJava.bootcamp.section7.bigchallenge;
 
 public class BaseBurger {
 

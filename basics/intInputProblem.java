@@ -1,4 +1,4 @@
-package java.basics;
+package myJava.basics;
 // nextLine() : next line me jana hi padega input dene ke liye.
 // nextInt() : ussi line me space ke baad ya next line me input de sakte hain.
 // next() : ussi line me space ke baad ya next line me input de sakte hain.

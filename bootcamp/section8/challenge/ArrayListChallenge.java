@@ -1,4 +1,4 @@
-package java.bootcamp.section8.challenge;
+package myJava.bootcamp.section8.challenge;
 
 import java.util.Scanner;
 import java.util.ArrayList;

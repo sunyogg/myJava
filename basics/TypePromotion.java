@@ -1,4 +1,4 @@
-package java.basics;
+package myJava.basics;
 //8
 
 // automatic type promotion in java in terms of which data type is bigger.

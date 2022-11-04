@@ -1,3 +1,5 @@
+package myJava.basics;
+
 public class PassbyValue{
 	public static void main(String[] args){
 		// 1) Declare an int variable and assign it the value 7.

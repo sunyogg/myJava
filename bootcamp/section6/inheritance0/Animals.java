@@ -1,4 +1,4 @@
-package java.bootcamp.section6.inheritance0;
+package myJava.bootcamp.section6.inheritance0;
 
 public class Animals {
 

@@ -1,10 +1,10 @@
-package java.oops;
+package myJava.oops;
 
 public class EmployeeTest{
 	public static void main(String[] args){
 
-	Employee emp1 = new Employee("Corey", "Schafer", 37, 150000, "python", 12);
-	Employee emp2 = new Employee("John", "Doe", 28, 60000, "python", 3);
+	Employees emp1 = new Employees("Corey", "Schafer", 37, 150000, "python", 12);
+	Employees emp2 = new Employees("John", "Doe", 28, 60000, "python", 3);
 
 	//emp1.describe();
 	emp1.incrementPay(11000);
@@ -17,7 +17,7 @@ public class EmployeeTest{
 	}
 }
 
-class Employee{
+class Employees{
 	String fname;
 	String lname;
 	int iage;
@@ -27,7 +27,7 @@ class Employee{
 	String email;
 	
 	// creating a constructor
-	public Employee(String first, String last, int age, int pay, String lang, int exp) {
+	public Employees(String first, String last, int age, int pay, String lang, int exp) {
 		fname = first;
 		lname = last;
 		iage = age;

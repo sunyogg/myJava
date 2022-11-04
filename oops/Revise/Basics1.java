@@ -1,4 +1,4 @@
-package java.oops.Revise;
+package myJava.oops.Revise;
 
 import java.util.Scanner;
 public class Basics1 {

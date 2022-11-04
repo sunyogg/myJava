@@ -1,4 +1,4 @@
-package java.bootcamp.section8.linkedlist;
+package myJava.bootcamp.section8.linkedlist;
 
 public class Customer {
 

@@ -1,4 +1,4 @@
-package java.questions;
+package myJava.questions;
 // 27
 
 // This is how you can remove the last element from the integers in java.

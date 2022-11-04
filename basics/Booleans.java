@@ -1,4 +1,4 @@
-package java.basics;
+package myJava.basics;
 // 13
 
 public class Booleans{

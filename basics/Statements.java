@@ -1,4 +1,4 @@
-package java.basics;// 14
+package myJava.basics;// 14
 
 import java.util.Scanner;
 

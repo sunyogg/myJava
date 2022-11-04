@@ -1,4 +1,4 @@
-package java.oops;// Pass by value and pass by reference.
+package myJava.oops;// Pass by value and pass by reference.
 
 public class PassByValue {
     public static void main(String[] args) {

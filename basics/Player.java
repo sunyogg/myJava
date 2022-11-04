@@ -1,4 +1,4 @@
-package java.basics;
+package myJava.basics;
 
 class Player {
     int number = 0; // where the guess goes.

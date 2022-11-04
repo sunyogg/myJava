@@ -1,4 +1,4 @@
-package java.basics;
+package myJava.basics;
 // 32
 
 // to achieve method overloading we can name two method of same name but one of

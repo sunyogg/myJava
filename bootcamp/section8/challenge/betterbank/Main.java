@@ -1,4 +1,4 @@
-package java.bootcamp.section8.challenge.betterbank;
+package myJava.bootcamp.section8.challenge.betterbank;
 
 public class Main {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package java.bootcamp.section8.challenge.bank;
+package myJava.bootcamp.section8.challenge.bank;
 import java.util.ArrayList;
 
 public class Customer {

@@ -1,3 +1,5 @@
+package myJava.basics;
+
 import java.util.ArrayList;
 
 public class Operator {

@@ -1,4 +1,4 @@
-package java.basics;
+package myJava.basics;
 // 4
 
 // byte - 1 byte - Stores whole number from -127 to 127

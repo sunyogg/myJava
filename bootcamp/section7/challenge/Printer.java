@@ -1,4 +1,4 @@
-package java.bootcamp.section7.challenge;
+package myJava.bootcamp.section7.challenge;
 
 public class Printer {
     private int tonerLevel = 100;

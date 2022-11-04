@@ -1,4 +1,4 @@
-package java.questions;
+package myJava.questions;
 // 10
 
 // If statement.

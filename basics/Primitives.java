@@ -1,4 +1,4 @@
-package java.basics;
+package myJava.basics;
 // 3
 
 // a primitve is a type which cannot be further divided or simplified or broken.

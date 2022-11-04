@@ -1,4 +1,4 @@
-package java.bootcamp.section8.challenge.smartphone;
+package myJava.bootcamp.section8.challenge.smartphone;
 
 public class Main {
     public static void main(String[] args) {

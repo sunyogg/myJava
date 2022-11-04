@@ -1,4 +1,4 @@
-package java.basics;
+package myJava.basics;
 
 public class Smallest {
     public static void main(String[] args){

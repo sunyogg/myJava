@@ -1,4 +1,4 @@
-package java.basics;
+package myJava.basics;
 // 19
 
 public class EvenOdd{

@@ -1,4 +1,4 @@
-package java.basics;
+package myJava.basics;
 // String pool is a separate memory structure inside the heap memory.
 // Why do we need a 'pool'? why can't we simply put it in heap memory.
 // pool is something that stores a String when more than one pointer are

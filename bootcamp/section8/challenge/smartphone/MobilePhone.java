@@ -1,4 +1,4 @@
-package java.bootcamp.section8.challenge.smartphone;
+package myJava.bootcamp.section8.challenge.smartphone;
 
 import java.util.ArrayList;
 import java.util.Scanner;

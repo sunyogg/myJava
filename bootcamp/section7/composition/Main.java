@@ -1,4 +1,4 @@
-package java.bootcamp.section7.composition;
+package myJava.bootcamp.section7.composition;
 
 public class Main {
     public static void main(String[] args) {

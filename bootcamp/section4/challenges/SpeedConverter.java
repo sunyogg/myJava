@@ -1,4 +1,4 @@
-package java.bootcamp.section4.challenges;
+package myJava.bootcamp.section4.challenges;
 
 import java.lang.Math;
 public class SpeedConverter{

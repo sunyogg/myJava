@@ -1,4 +1,4 @@
-package java.basics;
+package myJava.basics;
 // 31
 
 // to pass arbitrary number of arguments in the method call define the parameter

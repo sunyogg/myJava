@@ -1,4 +1,4 @@
-package java.basics;
+package myJava.basics;
 
 public class InAndNotIn{
     public static void main(String[] args){

@@ -1,4 +1,4 @@
-package java.bootcamp.section7.polymorphism.car;
+package myJava.bootcamp.section7.polymorphism.car;
 
 
 public class Audi extends Car {

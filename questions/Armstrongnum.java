@@ -1,4 +1,4 @@
-package java.questions;
+package myJava.questions;
 // 34
 // what is armstrong number:
 // 153 = 1^3 + 5^3 + 3^3

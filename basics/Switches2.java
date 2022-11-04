@@ -1,4 +1,4 @@
-package java.basics;
+package myJava.basics;
 // 28
 // using switches differently like in some case we don't need those break statement.
 // and also sometimes we'll need to use nested switch statement.

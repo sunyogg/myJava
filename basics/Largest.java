@@ -1,4 +1,4 @@
-package java.basics;
+package myJava.basics;
 // 23
 // Q1
 // find the largest number out of the tree numbers

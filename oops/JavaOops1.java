@@ -1,4 +1,4 @@
-package java.oops;
+package myJava.oops;
 
 public class JavaOops1{
 	
@@ -7,11 +7,14 @@ public class JavaOops1{
 	final double pie = 3.14159;
 
 	public static void main(String[] args){
-		JavaOops myObj = new JavaOops();
-		System.out.println(myObj.x);
-		myObj.x = 13;
-		System.out.println(myObj.x);
-		myObj.pie = 2.14;  // this will generate an error.
+		// somehow 'JavaOops' got deleted.
+
+
+//		JavaOops myObj = new JavaOops();
+//		System.out.println(myObj.x);
+//		myObj.x = 13;
+//		System.out.println(myObj.x);
+//		myObj.pie = 2.14;  // this will generate an error.
 		
 	}
 }

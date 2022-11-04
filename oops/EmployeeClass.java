@@ -1,4 +1,6 @@
-=public class EmployeeClass{
+package myJava.oops;
+
+public class EmployeeClass{
 	public static void main(String[] args){
 
 		Employee emp1 = new Employee();

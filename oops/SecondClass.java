@@ -1,4 +1,4 @@
-package java.oops;
+package myJava.oops;
 
 class SecondClass{
 	int x = 25;

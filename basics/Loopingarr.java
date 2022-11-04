@@ -1,4 +1,4 @@
-package java.basics;
+package myJava.basics;
 
 public class Loopingarr{
 	public static void main(String[] args){

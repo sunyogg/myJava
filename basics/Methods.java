@@ -1,4 +1,4 @@
-
+package myJava.basics;
 // 21
 
 // mymethod() is the name of the method.

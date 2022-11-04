@@ -1,4 +1,4 @@
-package java.arrays;
+package myJava.arrays;
 
 import java.util.Arrays;
 public class Sortyourself{

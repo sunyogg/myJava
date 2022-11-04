@@ -1,4 +1,4 @@
-package java.basics;// 1
+package myJava.basics;// 1
 
 // This is class.
 public class Basix{

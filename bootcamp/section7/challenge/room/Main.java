@@ -1,6 +1,4 @@
-package java.bootcamp.section7.challenge.room;
-
-import java.awt.*;
+package myJava.bootcamp.section7.challenge.room;
 
 public class Main {
     public static void main(String[] args) {
@@ -11,7 +9,7 @@ public class Main {
         Shelf shelf = new Shelf((new Dimensions(2, 5, 3)), 7, 2);
 
         Furniture furniture = new Furniture(bed, table, chair, shelf);
-        Window window = new Window((new Dimensions(1, 6, 4)), true);
+        myJava.bootcamp.section7.challenge.room.Window window = new Window((new Dimensions(1, 6, 4)), true);
         Door door  = new Door((new Dimensions(1, 7, 3)), "Kundi", true);
 
         Room room  = new Room(furniture, window, door);

@@ -1,4 +1,4 @@
-package java.basics;
+package myJava.basics;
 // swapping two variable.
 // x = value0
 // y = value1

@@ -1,4 +1,4 @@
-package java.bootcamp.section6.challenges;
+package myJava.bootcamp.section6.challenges;
 
 public class ManualCar extends Vehicle {
 
