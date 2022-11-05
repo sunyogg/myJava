@@ -5,6 +5,8 @@ public class SingleTon {
     private SingleTon() {
 
     }
+    // This variable (instance) will store the single instance that we will
+    // create.
     private static SingleTon instance;
 
 

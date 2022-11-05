@@ -8,7 +8,7 @@ public class Child extends Father {
         super(number, decimal, logic, "child");
         // above I have made the name parameter for child as default.
         // It can be used when you know that all the object in child class will
-        // a particular parameter common.
+        // have a particular parameter common.
 
         this.character = character;
     }
