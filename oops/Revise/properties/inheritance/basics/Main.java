@@ -44,23 +44,21 @@ public class Main {
         // child class.
 //        BoxWeight bb = new Box();
 //        System.out.println(b.length);
-        BoxPrice bp = new BoxPrice(); // debug here to understand.
+//        BoxPrice bp = new BoxPrice(); // debug here to understand.
+//
+//        BoxPrice bpp = new BoxPrice(bp); // debug here to understand.
 
-        BoxPrice bpp = new BoxPrice(bp); // debug here to understand.
+        Box box0 = new Box();
+        BoxWeight box1 = new BoxWeight();
+        Box box2 = new BoxWeight();
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+        box0.greetings();
+        box1.greetings();
+        Box.greetings();
+        BoxWeight.greetings();
+        box2.greetings();
     }
 }
+
+// Overriding depends on object, Static does not depend on object.
+// Hence static method cannot be overriden.

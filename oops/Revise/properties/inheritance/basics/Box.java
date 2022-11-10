@@ -5,6 +5,10 @@ public class Box {
     protected double width;
     protected double height;
 
+    public static void greetings() {
+        System.out.println("I am in Box class. Greetings.");
+    }
+
     public Box() {
         this.length = -1;
         this.width = -1;
